@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|c:\\users\\xaver\\desktop\\actualizarappgit\\pruebaactualizarapp\\pruebaactualizarappgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:versionupdate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|c:\\users\\xaver\\desktop\\actualizarappgit\\pruebaactualizarapp\\pruebaactualizarappgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "RelativeToolTip": "VersionUpdate.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-06-10T22:22:23.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T22:22:23.185Z"
             },
             {
               "$type": "Document",
