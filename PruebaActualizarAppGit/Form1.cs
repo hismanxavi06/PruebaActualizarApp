@@ -20,7 +20,19 @@ namespace PruebaActualizarAppGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
+        }
+
+        private void btnActualizart_Click(object sender, EventArgs e)
+        {
             AutoUpdater.Start("https://rbsoft.org/updates/AutoUpdaterTest.xml");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 abrir = new Form2();
+            abrir.Show();
+            this.Hide();
         }
     }
 }
