@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|c:\\users\\xaver\\desktop\\actualizarappgit\\pruebaactualizarapp\\pruebaactualizarappgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\versionupdate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:versionupdate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|c:\\users\\xaver\\desktop\\actualizarappgit\\pruebaactualizarapp\\pruebaactualizarappgit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\versionupdate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E536D8C-306D-4F63-848B-6F239FF925C6}|PruebaActualizarAppGit.csproj|solutionrelative:versionupdate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:09:59.347Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADgvxYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T22:30:47.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "VersionUpdate.xml",
               "DocumentMoniker": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\VersionUpdate.xml",
               "RelativeDocumentMoniker": "VersionUpdate.xml",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\xaver\\Desktop\\ActualizarAppGit\\PruebaActualizarApp\\PruebaActualizarAppGit\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
